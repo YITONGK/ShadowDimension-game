@@ -13,7 +13,7 @@ public class Player {
     private double prevY;
     private int HP;
     private final int MAX_HP = 100;
-    private final int speed = 2;
+    private final int speed = 4;
     private final int SINKHOLE_DAMAGE = 30;
     private final int DAMAGE_POINT = 20;
     private Image currentImage;
